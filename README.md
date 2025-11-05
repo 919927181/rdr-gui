@@ -2,9 +2,9 @@
 
 ## About
 
-https://github.com/HDT3213/rdb 是目前较为活跃工具，且支持redis7的离线分析工具，缺点是命令行工具，输出结果不够直观
+https://github.com/HDT3213/rdb 是目前较为活跃工具，且支持redis7的离线分析工具，属于命令行工具，输出结果不够直观。
 
-因此，本项目依赖HDT3213/rdb，分析结果展示，是按照阿里云的redis离线分析rdb文件的功能做的。
+因此，本项目依赖HDT3213/rdb进行分析结果展示，是按照阿里云的redis离线分析rdb文件的功能做的。
 ![alt text](image.png)
 ![alt text](image1.png)
 ## Live Development（开发）
